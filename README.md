@@ -1,9 +1,5 @@
 # 💫 Me
 
-Hi, I'm a software developer.
-
-Studying CS at University of Lodz
-
 [![Telegram](https://img.shields.io/badge/Telegram-%23000.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GooseOb)
 
 # 📊 Stats
