@@ -1,11 +1,12 @@
 # 💫 Me
 
-Hi, I'm a software developer. Author of
-[Taraskevizer](https://www.npmjs.com/package/taraskevizer)
-/
-[Taraskevizatar](https://gooseob.github.io/taraskevizatar/)
+Hi, I'm a software developer.
 
-[![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GooseOb)
+Studying CS at University of Lodz
+
+Check out [my website](https://gooseob.github.io) to learn more about my projects
+
+[![Telegram](https://img.shields.io/badge/Telegram-%23000.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GooseOb)
 
 # 📊 Stats
 
@@ -15,4 +16,4 @@ Hi, I'm a software developer. Author of
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=GooseOb&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GooseOb&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
