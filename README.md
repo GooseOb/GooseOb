@@ -6,3 +6,4 @@
 
 ![overview](https://gooseob.github.io/GooseOb/overview.svg#gh-dark-mode-only)
 ![languages](https://gooseob.github.io/GooseOb/languages.svg#gh-dark-mode-only)
+![languages](https://gooseob.github.io/GooseOb/languages.svg?a=2#gh-dark-mode-only)
