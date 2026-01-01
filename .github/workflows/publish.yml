@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: GooseOb/gh-user-stats@1
+      - uses: GooseOb/gh-user-stats@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
