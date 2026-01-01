@@ -18,7 +18,7 @@ jobs:
 
       - uses: GooseOb/gh-user-stats@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - uses: actions/upload-pages-artifact@v3
         with:
