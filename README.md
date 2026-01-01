@@ -4,5 +4,5 @@
 
 # 📊 Stats
 
-![](https://gooseob.github.io/GooseOb/overview.svg#gh-dark-mode-only)
-![](https://gooseob.github.io/GooseOb/languages.svg#gh-dark-mode-only)
+![](https://gooseob.github.io/GooseOb/overview.svg?1#gh-dark-mode-only)
+![](https://gooseob.github.io/GooseOb/languages.svg?1#gh-dark-mode-only)
